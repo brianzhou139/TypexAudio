@@ -9,7 +9,10 @@ Android Music Player app
 
 
 ## Screenshots
-![blacksheep](https://user-images.githubusercontent.com/39838697/79722382-dd45a880-82db-11ea-95a7-10a2abc709f0.png)
+![z1](https://user-images.githubusercontent.com/39838697/80273133-971b8b00-86c7-11ea-88bf-968fadf5e95f.png)
+![z2](https://user-images.githubusercontent.com/39838697/80273134-98e54e80-86c7-11ea-8e97-cb33820d80d0.png)
+![z3](https://user-images.githubusercontent.com/39838697/80273137-9a167b80-86c7-11ea-9843-7653ad582de6.png)
+![z4](https://user-images.githubusercontent.com/39838697/80273138-9be03f00-86c7-11ea-8f92-aee62af2e839.png)
 
 ## Disclaimer
 All photos used in the app or promotional collaterals are open-source and royalty free from Unsplash.com.
