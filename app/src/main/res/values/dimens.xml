@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="optSize">24sp</dimen>
+    <dimen name="smallerSize">22sp</dimen>
+    <dimen name="middletextSize">18sp</dimen>
+</resources>

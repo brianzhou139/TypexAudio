@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#40ffffff</color>
+
+    <color name="Viewline">#e6eaea</color>
+    <color name="textblue">#36486b</color>
+    <color name="white">#ffffff</color>
+    <color name="myWhite">#fff</color>
+    <color name="myHintColor">#1D1919</color>
+    <color name="editBackgroundColor">#fff</color>
+    <color name="myBlack">#000</color>
+</resources>
